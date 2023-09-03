@@ -1,0 +1,5 @@
+Enviroment    Title      Severity     Priority   STR      Expected Result        Actual result        Attachment    ФИО Автора   Comments	
+Окружение   Описание   Серьезность   Приоритет   Шаги   Ожидаемый результат   Полученный результат   Ссылки,скрины
+
+
+											
